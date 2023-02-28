@@ -30,7 +30,7 @@ A fully featured Svelte UI toolkit for Svelte + Tailwind. Skeleton allows you to
 
 ## 🛠️ Contributions
 
-We've provided a detailed [contribution guide](https://www.skeleton.dev/docs/contributions) to help you get started. Pull requests are highly encouraged. [Pick an open issue](https://github.com/skeletonlabs/skeleton/issues), review requirements with contributors, then send a PR!
+We've provided a detailed [contribution guide](https://www.skeleton.dev/docs/contributing) to help you get started. Pull requests are highly encouraged. [Pick an open issue](https://github.com/skeletonlabs/skeleton/issues), review requirements with contributors, then send a PR!
 
 ## Core Maintainer
 
